@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "title": "Полиция памяти",
+      "author": "Ёко Огава",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
+      "price": 1472,
+      "currency": "₽",
+      "category": "Научная фантастика > Антиутопия",
+      "isbn13": 9781101911815,
+      "description": "На безымянном острове исчезают предметы: сначала шляпы, затем ленты, птицы, розы..."
+    },
+
+    {
+      "title": "Носорог",
+      "author": "Эжен Ионеско",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
+      "price": 1600,
+      "currency": "₽",
+      "category": "Пьесы > Театр",
+      "publisher": "Пресса Гроув",
+      "isbn13": 9780802130983,
+      "description": "В маленьком городке внезапно появляется носорог, расхаживающий по его мирным улицам."
+    },
+
+    {
+      "title": "Помни о смерти",
+      "author": "Мюриэл Спарк",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348186701l/120158.jpg",
+      "price": 1590,
+      "currency": "₽",
+      "category": "Романы",
+      "isbn13": 9780811223041,
+      "publisher": "Издательская корпорация <<Новые направления>>",
+      "description": "В конце 1950-х годов в Лондоне с группой пожилых друзей происходит нечто сверхъестественное."
+    },
+
+    {
+      "title": "Атлас искусственного интеллекта",
+      "author": "Кейт Кроуфорд",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
+      "price": 2576,
+      "currency": "₽",
+      "category": "Научная литература > Технологии",
+      "publisher": "Yale University Press",
+      "isbn13": 9780300209570,
+      "description": "Скрытые издержки искусственного интеллекта."
+    }
+  ]
+}
